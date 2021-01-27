@@ -1,4 +1,4 @@
-# Converting tool[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+# Face-detector[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 ### This is a simple python Face Recognition script which uses OpenCV library to do the task. 
 ---
 ### Instructions
