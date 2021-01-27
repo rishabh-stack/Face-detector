@@ -2,10 +2,10 @@
 ### This is a simple python Face Recognition script which uses OpenCV library to do the task. 
 ---
 ### Instructions
-1.Make sure you have Python (latest) installed in your system.
-2.Open the folder in CMD or terminal and type pip install opencv-python to install OpenCV.
-3.Now edit the main.py file using your favorite code editor(Example: Sublime text editor, VSCode, Vim).
-4.Now save the file, close the editor and run main.py.
+1. Make sure you have Python (latest) installed in your system.
+2. Open the folder in CMD or terminal and type pip install opencv-python to install OpenCV.
+3. Now edit the main.py file using your favorite code editor(Example: Sublime text editor, VSCode, Vim).
+4. Now save the file, close the editor and run main.py.
 ---
 ## Run this program on Startup
 ### Linux
